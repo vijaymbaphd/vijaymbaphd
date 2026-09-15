@@ -25,6 +25,5 @@ Teaching view: the best way to learn analytics is to do it on real questions.
 ### Elsewhere
 
 - [vijaymbaphd.github.io](https://vijaymbaphd.github.io) for books, labs and blog
-- - [Yuvijen](https://yuvijen.com), free analytics teaching
-  - - [LinkedIn](https://www.linkedin.com/in/vijayakumar-p-2635a8156)
-    - 
+- [Yuvijen](https://yuvijen.com), free analytics teaching
+- [LinkedIn](https://www.linkedin.com/in/vijayakumar-p-2635a8156)
