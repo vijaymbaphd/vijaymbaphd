@@ -1,6 +1,6 @@
 ## Vijayakumar P
 
-Assistant Professor at KLH Global Business School, Hyderabad. I teach Performance Management and Advanced Business Analytics to MBA and EMBA cohorts, and I publish the teaching material openly instead of keeping it behind a course login.
+Assistant Professor. I teach Performance Management and Advanced Business Analytics to MBA and EMBA cohorts, and I publish the teaching material openly instead of keeping it behind a course login.
 
 Everything here is meant to be opened, forked and taught from.
 
