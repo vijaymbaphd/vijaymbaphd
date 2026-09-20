@@ -12,7 +12,7 @@ Everything here is meant to be opened, forked and taught from.
 
 **Research code.** R and Quarto pipelines from my own work on the Performance Pressure scale, covering item generation through EFA, CFA and measurement invariance, with the reporting scripted end to end.
 
-**Journal Finder.** A small tool for matching a manuscript to plausible outlets.
+**[Journal Indexes](https://journalindexes.com).** Search 52,000 journals by name, ISSN, topic or author, then check Scopus quartile, Web of Science collection, ABDC rating, DOAJ status and predatory flags before you submit. Free, no account.
 
 ### Background
 
