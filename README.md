@@ -8,10 +8,6 @@ I came to management from engineering: a B.Tech in electronics and communication
 
 What performance pressure does to employees, traced down two paths: unethical pro-organizational behaviour on one side, creative work involvement on the other. Mixed methods, scale development, EFA and CFA, measurement invariance, SEM.
 
-Vijayakumar, P., & Rani, C. (2026). Performance pressure and employee expediency: a self-perception model of psychological entitlement and core self-evaluation. *The Journal of Asia Entrepreneurship and Sustainability*, 22(4s), 361-380. ABDC listed.
-
-A multidimensional performance-pressure scale and a moderated-mediation study of pressure, creativity and unethical pro-organizational behaviour are both in the pipeline.
-
 ### What I publish
 
 **Open-access books.** Ten so far, code-first and free to read: HR Metrics and Dashboards, HR Metrics and Analytics, Performance Management, Business Analytics for Decision Making, Business Analytics for Agriculture, Advanced Business Analytics, Decision Science, R Programming, Data Visualization with Power BI, Data Visualization with Tableau. Written in Quarto, with source and rendered site both public, so a chapter can be lifted into someone else's course without asking.
