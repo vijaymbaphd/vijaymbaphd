@@ -8,7 +8,7 @@ Everything here is meant to be opened, forked and taught from.
 
 **Open-access books.** Full-length Quarto books on business analytics, data science, HR analytics and management. Source and rendered site are both public, so a chapter can be lifted into someone else's course without asking.
 
-**Analytics Lab.** Single-file interactive HTML tools built for the classroom: sampling distributions, regression diagnostics, factor structure. No install and no server. Open the file in a browser and it runs.
+**[Analytics Lab](https://vijaymbaphd.github.io/data-analytics/).** Browser-based entry points to RStudio, Jupyter, Colab, Kaggle, jamovi and Looker Studio, so a class can start analysing on any machine with nothing installed, plus sample code to get the first cell running.
 
 **Research code.** R and Quarto pipelines from my own work on the Performance Pressure scale, covering item generation through EFA, CFA and measurement invariance, with the reporting scripted end to end.
 
