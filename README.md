@@ -10,7 +10,7 @@ What performance pressure does to employees, traced down two paths: unethical pr
 
 ### What I publish
 
-**Open-access books.** Ten so far, code-first and free to read: HR Metrics and Dashboards, HR Metrics and Analytics, Performance Management, Business Analytics for Decision Making, Business Analytics for Agriculture, Advanced Business Analytics, Decision Science, R Programming, Data Visualization with Power BI, Data Visualization with Tableau. Written in Quarto, with source and rendered site both public, so a chapter can be lifted into someone else's course without asking.
+**[Open-access books](https://vijaymbaphd.github.io/books/).** Ten so far, code-first and free to read: HR Metrics and Dashboards, HR Metrics and Analytics, Performance Management, Business Analytics for Decision Making, Business Analytics for Agriculture, Advanced Business Analytics, Decision Science, R Programming, Data Visualization with Power BI, Data Visualization with Tableau. Written in Quarto, with source and rendered site both public, so a chapter can be lifted into someone else's course without asking.
 
 **[Analytics Lab](https://vijaymbaphd.github.io/data-analytics/).** Browser-based entry points to RStudio, Jupyter, Colab, Kaggle, jamovi and Looker Studio, so a class can start analysing on any machine with nothing installed, plus sample code to get the first cell running.
 
@@ -30,5 +30,4 @@ Teaching starts from data. Students work with real datasets and live dashboards,
 
 - [vijaymbaphd.github.io](https://vijaymbaphd.github.io) for books, labs and blog
 - [YouTube](https://www.youtube.com/@vijaymbaphd) for companion video lectures
-- [Yuvijen](https://yuvijen.com), free analytics teaching
 - [LinkedIn](https://www.linkedin.com/in/vijayakumar-p-2635a8156)
